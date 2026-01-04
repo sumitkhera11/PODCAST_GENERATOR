@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore output files only (specific)
+blog_summary.txt
+output.mp3
+podcast.mp3
+
+# VS Code
+.vscode/
