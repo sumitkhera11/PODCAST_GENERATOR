@@ -3,7 +3,7 @@ import time
 import requests
 from dotenv import load_dotenv
 import streamlit as st
-from blog_summarizer import summarize_blog
+from blog_summarizer2 import summarize_blog
 
 # =============================
 # ENV
